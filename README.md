@@ -3,6 +3,9 @@
 A production-grade computer vision system that combines frame-level 
 object detection and sequence-level temporal analysis to detect 
 events in any video — automatically generating a visual report.
+<img width="680" height="319" alt="Screenshot 2026-04-21 at 7 15 41 PM" src="https://github.com/user-attachments/assets/74fa4cf1-241d-42ae-8d97-fefc212a037f" />
+
+
 
 ## What Makes This Different
 
@@ -27,6 +30,8 @@ Processing time:     ~5 minutes
 ```
 
 ## Pipeline Architecture
+<img width="680" height="438" alt="Screenshot 2026-04-21 at 7 16 25 PM" src="https://github.com/user-attachments/assets/d69c98af-1590-47d9-a034-47b307dc1d0d" />
+
 
 ```
 Video Input (any MP4 or webcam)
@@ -60,6 +65,8 @@ Browser opens automatically with results
 - Auto-generates beautiful visual HTML report per video
 - Real-time WebSocket streaming for live analysis
 - Zero configuration — upload and get results
+
+<img width="680" height="299" alt="Screenshot 2026-04-21 at 7 16 39 PM" src="https://github.com/user-attachments/assets/83883e48-d99e-4720-8d5b-17c031a4610e" />
 
 ## Project Structure
 
